@@ -22,5 +22,5 @@ color:
   rhythmicContrast: 0.5
 purpose:
   - name: awareness
-    item: null
+    item: 'null'
     url: null
