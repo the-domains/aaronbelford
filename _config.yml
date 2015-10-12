@@ -35,9 +35,9 @@ color:
     - '#3c3c3c'
     - '#000000'
   brandStrength: 0.5
-  lightness: 1
-  saturation: 0.4375
-  rhythmicContrast: 0.25
+  lightness: 0.6875
+  saturation: 0.875
+  rhythmicContrast: 0.5
 purpose:
   - name: awareness
     url: null
