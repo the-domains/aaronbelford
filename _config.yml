@@ -16,14 +16,14 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.5
-  lightness: 0.5
+  saturation: 1
   brandStrength: 1
+  lightness: 0.5
   brandColors:
     - '#FFFFFF'
     - '#E95F01'
     - '#FFA365'
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.7685285
 cta:
   bucket: null
   version: null
@@ -38,4 +38,5 @@ opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.8
+typography_spectrum: 0.6310419
+layout_spectrum: 1
