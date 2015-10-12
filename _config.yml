@@ -33,9 +33,9 @@ color:
     - '#E95F01'
     - '#FFA365'
   brandStrength: 0.25
-  lightness: 0.5
-  saturation: 1
-  rhythmicContrast: 0.7685285
+  lightness: 1
+  saturation: 0.4375
+  rhythmicContrast: 0.25
 purpose:
   - name: awareness
     url: null
