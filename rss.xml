@@ -5,8 +5,15 @@
         <description><![CDATA[aaronbelford]]></description>
         <link>https://thegrid.ai/aaronbelford/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 12 Oct 2015 04:10:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Oct 2015 04:12:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/aaronbelford/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cloud Storage Explained for Photographers]]></title>
+            <description><![CDATA[<article><h1>Cloud Storage Explained for Photographers</h1><p>Imagine if disaster struck. No, I'm not talking about a tornado or flash flood. I'm talking about coffee. Your laptop is now sitting in a puddle of the liquid you use to get yourself through the morning. If this happened to you, would panic strike or would you feel secure knowing all your photos and data are safely secured in another location?</p><img src="http://photographyspark.com/images/what-is-cloud-storage-thumb.jpg"></article>]]></description>
+            <link>http://photographyspark.com/cloud-storage-explained/</link>
+            <guid isPermaLink="false">151f4292-1f50-4b63-9122-f46f426e438f</guid>
+            <pubDate>Mon, 12 Oct 2015 04:10:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Utilizing Relationship Marketing for Your Photography Business]]></title>
             <description><![CDATA[<article><h1>Utilizing Relationship Marketing for Your Photography Business</h1><p>Everyone who is connected to content marketing has heard the statement "content is king". With good content you can build a strong brand and attract new visitors, clients and sales. However, content is not the only important part of a business. Have you heard the statement, "community is its own kingdom"?</p><img src="http://photographyspark.com/images/relationship-marketing-help-th.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://photographyspark.com/three-ways-photographers-can-improve-their-online-presence/</link>
             <guid isPermaLink="false">66a80e70-3a5f-48fe-9eb3-fd2ce4830c76</guid>
             <pubDate>Mon, 12 Oct 2015 04:06:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Keys to Successful Mini-Sessions]]></title>
-            <description><![CDATA[<article><h1>The Keys to Successful Mini-Sessions</h1><p>You see a photographer offering mini-sessions every 5 minutes on social media. It seems that people are flocking to them, but even if they sell out will they be profitable at the end of the day? Maybe you've tried to jump on the mini-session bandwagon, but ended the day exhausted and with little extra money in your business account.</p><img src="http://photographyspark.com/images/Food-for-Fido-133.jpg"></article>]]></description>
-            <link>http://photographyspark.com/the-keys-to-successful-mini-sessions/</link>
-            <guid isPermaLink="false">7abf2fd9-116b-4497-b976-1f46c3e3ef1e</guid>
-            <pubDate>Mon, 12 Oct 2015 04:06:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
