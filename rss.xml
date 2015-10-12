@@ -5,8 +5,15 @@
         <description><![CDATA[aaronbelford]]></description>
         <link>https://thegrid.ai/aaronbelford/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 12 Oct 2015 04:10:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Oct 2015 04:10:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/aaronbelford/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Beginner Tips for an Online Photo Studio]]></title>
+            <description><![CDATA[<article><h1>Beginner Tips for an Online Photo Studio</h1><p>Your website is an online business card that reflects your true self, style of photography, and what you like. What you show is the business you will attract, therefore it is critical to make your website reflect the photography you want to shoot more of.</p><img src="http://photographyspark.com/images/online-advice-for-studios.jpg"></article>]]></description>
+            <link>http://photographyspark.com/beginner-tips-for-an-online-photo-studio/</link>
+            <guid isPermaLink="false">d234209b-fbd4-4848-81fe-b154b5e71e6d</guid>
+            <pubDate>Mon, 12 Oct 2015 04:10:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why Mobile Payments Are Transforming Photography]]></title>
             <description><![CDATA[<article><h1>Why Mobile Payments Are Transforming Photography</h1><p>In today's professional world, you should be able to instantly receive payment the moment your work is complete. Time is money. And traditional payment processes can create unfortunate doubt over when and how (and sometimes if) photographers will be paid.</p><img src="http://photographyspark.com/images/mobile-payments-th.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://photographyspark.com/how-to-start-a-photography-business/</link>
             <guid isPermaLink="false">73e773b7-fa69-408b-8c9f-5c6ad8416abb</guid>
             <pubDate>Mon, 12 Oct 2015 04:04:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Getting Started on The Grid]]></title>
-            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
-            <link>https://thegrid.ai/aaronbelford/getting-started-on-the-grid/index.html</link>
-            <guid isPermaLink="false">e440d4dd-a26c-4e75-b31f-073b8b2fb938</guid>
-            <pubDate>Mon, 12 Oct 2015 02:33:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
