@@ -1,8 +1,8 @@
+name: aaronbelford
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.6310419
 title: aaronbelford
-purpose:
-  - name: awareness
-    url: null
-    item: 'null'
 collections:
   - index:
       path: /
@@ -15,28 +15,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 1
-  brandStrength: 1
-  lightness: 0.5
-  brandColors:
-    - '#FFFFFF'
-    - '#E95F01'
-    - '#FFA365'
-  rhythmicContrast: 0.7685285
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
 analytics:
-  twitter: null
   google: UA-68638679-1
   facebook: null
-favicon: null
-name: aaronbelford
+  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.6310419
-layout_spectrum: 1
+color:
+  brandColors:
+    - '#FFFFFF'
+    - '#E95F01'
+    - '#FFA365'
+  brandStrength: 0.25
+  lightness: 0.5
+  saturation: 1
+  rhythmicContrast: 0.7685285
+purpose:
+  - name: awareness
+    url: null
+    item: 'null'
