@@ -1,8 +1,29 @@
-name: aaronbelford
-favicon: null
-layout_spectrum: 0.52457
 typography_spectrum: 0.61685
-title: aaronbelford
+color:
+  brandColors:
+    - '#ff7a07'
+    - '#595959'
+    - '#ebebeb'
+    - '#000000'
+  brandStrength: 0.75
+  lightness: 0.5
+  saturation: 0.9375
+  rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.52457
+analytics:
+  google: UA-68638679-1
+  facebook: null
+  twitter: null
+name: aaronbelford
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 collections:
   - index:
       path: /
@@ -15,29 +36,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-68638679-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#ff7a07'
-    - '#595959'
-    - '#ebebeb'
-    - '#000000'
-  brandStrength: 0.75
-  lightness: 0.5
-  saturation: 0.9375
-  rhythmicContrast: 0.5
-purpose:
-  - name: awareness
-    url: null
-    item: 0eae9a22-da9a-416b-8fb1-eeafc758f9ac
+title: aaronbelford
+description: Shooting Crazy Action In The Middle Of Nowhere
+purpose: []
